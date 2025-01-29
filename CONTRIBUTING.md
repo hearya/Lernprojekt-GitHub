@@ -1,4 +1,4 @@
-# Contributing to [Repository Name]
+# Contributing to Lernprojekt-GitHub
 
 ## How to contribute
 
