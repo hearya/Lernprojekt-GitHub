@@ -12,15 +12,6 @@ Dieses Projekt wurde erstellt, um [hier Thema einfügen] zu lernen und zu üben.
 1. Repository klonen:  
    ```bash
    git clone https://github.com/dein-benutzername/mein-lernprojekt.git
-In das Projektverzeichnis wechseln:
-bash
-Code kopieren
-cd mein-lernprojekt
-Abhängigkeiten installieren (falls nötig):
-bash
-Code kopieren
-pip install -r requirements.txt  # Für Python
-npm install  # Für JavaScript-Projekte
 ## Nutzung
 bash
 Code kopieren
