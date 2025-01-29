@@ -9,7 +9,7 @@ Dieses Projekt wurde erstellt, um [hier Thema einfügen] zu lernen und zu üben.
 - [Feature 3]
 
 ##  Installation
-1. Repository klonen:  
+1. Repository klonen:
    ```bash
    git clone https://github.com/dein-benutzername/mein-lernprojekt.git
 ## Nutzung
