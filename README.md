@@ -1,14 +1,32 @@
 # Mein Lernprojekt
 
-## 📌 Beschreibung
+##  Beschreibung
 Dieses Projekt wurde erstellt, um [hier Thema einfügen] zu lernen und zu üben. Es enthält grundlegende Funktionen und kann weiterentwickelt werden.
 
-## 🚀 Features
+##  Features
 - [Feature 1]
 - [Feature 2]
 - [Feature 3]
 
-## 🛠️ Installation
+##  Installation
 1. Repository klonen:  
    ```bash
    git clone https://github.com/dein-benutzername/mein-lernprojekt.git
+In das Projektverzeichnis wechseln:
+bash
+Code kopieren
+cd mein-lernprojekt
+Abhängigkeiten installieren (falls nötig):
+bash
+Code kopieren
+pip install -r requirements.txt  # Für Python
+npm install  # Für JavaScript-Projekte
+## Nutzung
+bash
+Code kopieren
+python main.py  # Beispiel für ein Python-Projekt
+npm start       # Beispiel für ein Node.js-Projekt
+## Lernziele
+[Thema 1]
+[Thema 2]
+[Thema 3]
